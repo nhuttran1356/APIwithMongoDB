@@ -1,4 +1,4 @@
-package com.mongodbapo;
+package com.mongodbapo.entity;
 
 public enum Gender {
     Male, Female
